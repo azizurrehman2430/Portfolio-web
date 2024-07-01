@@ -10,7 +10,7 @@
         -webkit-background-clip: text;
         background-clip: text;
         color: transparent;
-        margin-left: 19px;
+        margin-left: 8px;
     }
 
     /*---------- Home container----------- */
@@ -93,7 +93,8 @@
 
 /* ------------About us ------------------ */
 .about {
-    margin-top: -380px;
+    /* margin-top: -380px; */
+    margin-top: -250px;
     gap: 1rem;
 }
 

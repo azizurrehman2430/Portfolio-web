@@ -13,6 +13,12 @@ body{
     color: white;
     background-color: rgb(9, 9, 9);
 }
+.warp{
+    width: 100%;
+    padding: 100px 0;
+    margin: 0 auto;
+    border: 4px white;
+}
 
 .header{
     margin-top: 8px;
